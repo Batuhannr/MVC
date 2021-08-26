@@ -1,0 +1,15 @@
+D:\MVC\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MVC\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MVC\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\MVC\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MVC\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MVC\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MVC\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\MVC\MVC\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
